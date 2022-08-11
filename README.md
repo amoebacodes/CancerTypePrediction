@@ -8,5 +8,7 @@ Through clustering and visualizing the data using PCR and tSNE, we here report t
 Please see FinalReport.pdf for details on the background, methods, and results.
 ### Contributions
 Caroline: Logistic Regression
+
 Brittany: Naive Bayes
+
 Melody: Fully-Connected Feedforward Neural Net

@@ -6,3 +6,7 @@ All of our models have high precision and high recall, and all have achieved F1 
 Through clustering and visualizing the data using PCR and tSNE, we here report that there exists a subphenotype of pediatric kidney cancer based on transcriptome data.
 
 Please see FinalReport.pdf for details on the background, methods, and results.
+### Contributions
+Caroline: Logistic Regression
+Brittany: Naive Bayes
+Melody: Fully-Connected Feedforward Neural Net
